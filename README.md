@@ -9,13 +9,19 @@ Modlist and GIF showcase pages are coming soon
 - Optifine resource packs mostly compatible! Mods like [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures), [Custom Entity Models](https://modrinth.com/mod/cem), [Animatica](https://modrinth.com/mod/animatica), and others are installed!
 - Want shaders? The [Iris Shaders](https://modrinth.com/mod/iris) mod supports most shaders that work with Optifine!
 - Zoom in and cinimatize with two customizable zoom mods like [Zoomify](https://modrinth.com/mod/zoomify) and [Camera Utils](https://modrinth.com/mod/camera-utils)!
-- Customize or turn off the block outline with both [RemoveBlockOutline](https://modrinth.com/mod/removeblockoutline) and [BetterBlockOutline](https://modrinth.com/mod/betterblockoutline)!
 - Is moody brightness not dark enough during the night? Enable the [True Darkness](https://modrinth.com/mod/true-darkness) mod to make it more terrifying!
 - Does your wifi router support UPNP? If so, auto-magically port forward your LAN world using [mcwifipnp](https://modrinth.com/mod/mcwifipnp)!
-## Mod updates waiting:
+## Extra Info
+- Turn off the block outline with both [RemoveBlockOutline](https://modrinth.com/mod/removeblockoutline) and [BetterBlockOutline](https://modrinth.com/mod/betterblockoutline) on the same keybind.
+- Turn off **Advanced Footsteps** from [MAmbience](https://modrinth.com/mod/mambience) to let [Presence Footsteps](https://modrinth.com/mod/presence-footsteps) do the work.
+- If using Fresh Animations resource pack (included), disable **Use New Model Creation Fix** in [CEM](https://modrinth.com/mod/cem) config.
+## 1.19.3 mod updates waiting:
+- [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) by LambdAurora [cosmetic]
 - [Better Animations Collection](https://modrinth.com/mod/better-animations-collection) by Fuzs [cosmetic]
 - [Effective 💦](https://www.curseforge.com/minecraft/mc-mods/effective) by doctor4t [cosmetic & sounds]
 - [Charmonium](https://modrinth.com/mod/charmonium) by svenhjol [sounds]
 - [ExtraSounds](https://modrinth.com/mod/extrasounds) by stashymane [sounds]
+- [Auditory](https://modrinth.com/mod/auditory) by Sydokiddo [sounds]
+- [Seamless Loading Screen](https://modrinth.com/mod/seamless-loading-screen) by Minenash
 ## Known issues:
 - No known issues
