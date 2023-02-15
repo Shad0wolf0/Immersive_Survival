@@ -1,6 +1,6 @@
 # Shad0wolf0's Modpack
 [![Modrinth](https://img.shields.io/modrinth/dt/shad0wolf0s-modpack?color=4&label=Download%20from%20Modrinth&style=for-the-badge)](https://modrinth.com/modpack/shad0wolf0s-modpack)
-### Modpack not actually in violation of rules on Modrinth, just withheld for private sharing purposes only.
+### Modpack not actually in violation of rules on Modrinth, just withheld for private sharing purposes currently.
 This modpack is a vanilla+ styled pack which features an immersive experience paired with a few utility tools and performance mods. The modpack is multiplayer friendly so it can be used on many servers that you choose.
 
 ###### Modlist and GIF showcase pages are coming soon
