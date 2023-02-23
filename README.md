@@ -4,8 +4,7 @@
 This modpack is a vanilla+ styled pack which features an immersive and lively experience paired with a few utility tools and performance mods. The modpack is survival multiplayer friendly so it can be used on many servers that you choose.
 ## Configure features using the [Mod Menu](https://modrinth.com/mod/modmenu)!
 ### Most mods are configurable!
-- Optifine resource packs **mostly** compatible! Mods like [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures), [Custom Entity Models](https://modrinth.com/mod/cem), [Animatica](https://modrinth.com/mod/animatica), and others are installed!
-- Want shaders? The [Iris Shaders](https://modrinth.com/mod/iris) mod supports most shaders that work with Optifine!
+- Optifine resource packs and shaders **mostly** compatible! Mods like [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures), [Custom Entity Models](https://modrinth.com/mod/cem), [Animatica](https://modrinth.com/mod/animatica), [Iris Shaders](https://modrinth.com/mod/iris), and others are installed!
 - Zoom in and cinimatize with two customizable zoom mods like [Zoomify](https://modrinth.com/mod/zoomify) and [Camera Utils](https://modrinth.com/mod/camera-utils)!
 - Is moody brightness not dark enough during the night? Enable the [True Darkness](https://modrinth.com/mod/true-darkness) mod to make it more terrifying!
 - Does your internet router support UPNP? If so, auto-magically port forward **Open to LAN** using [mcwifipnp](https://modrinth.com/mod/mcwifipnp) so your friend can join your singleplayer world!
