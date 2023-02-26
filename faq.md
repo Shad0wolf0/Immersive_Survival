@@ -1,1 +1,11 @@
 
+### I have modified the resource assets of the MAmbience mod by andre111 under the Apache-2.0 license.
+#### ma_effects
+- removed desert_sand.json
+- removed fireflies.json
+##### ma_sounds
+- removed desert
+- removed end
+- removed jungle day,night.json
+- removed nether fx1.json
+- removed swamp day,night.json
