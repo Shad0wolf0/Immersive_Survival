@@ -1,5 +1,5 @@
 
-### I have modified the resource assets of the MAmbience mod by andre111 under the Apache-2.0 license.
+### I have modified the resource assets of the [MAmbience](https://modrinth.com/mod/mambience) mod by [andre111](https://modrinth.com/user/andre111) under the Apache-2.0 license.
 #### ma_effects
 - removed desert_sand.json
 - removed fireflies.json
