@@ -4,7 +4,7 @@
 
 Built from the ground up, this modpack is a vanilla+ styled pack which features an immersive and lively experience paired with performance and utility  mods. The modpack is survival multiplayer friendly so it can be used on many servers that you choose. Inspired by my vision of survival Minecraft and the format of [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized).
 
-#### Modpack is in ALPHA! You might expect bugs or performance issues!
+- Modpack is in ALPHA! You might expect bugs or performance issues!
 
 ## Configure features using the [Mod Menu](https://modrinth.com/mod/modmenu)!
 #### Most mods are configurable!
@@ -21,6 +21,8 @@ Built from the ground up, this modpack is a vanilla+ styled pack which features 
 
 ## [Modlist and Credits](https://github.com/Shad0wolf0/Shad0wolf0s-Modpack/wiki) and [FAQ](https://github.com/Shad0wolf0/Shad0wolf0s-Modpack/blob/main/faq.md)
 - [Complementary v4](https://modrinth.com/shader/complementary-shaders-v4), [Complementary Reimagined 2.0](https://modrinth.com/shader/complementary-reimagined), [Snowimagined](https://modrinth.com/shader/snowimagined), [Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels) are under the [Complementary Agreement 1.3](https://github.com/ComplementaryDevelopment/ComplementaryShadersV4/blob/main/License.txt) license. Any problems with these shaderpacks should be reported to their respective authors.
+
+- [Acid & Animal Crossing Shaders](https://shaders.fandom.com/wiki/Acid_Shaders) are under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 
 [Capt Tatu](https://bitslablab.com) of [BSL Shaders](https://modrinth.com/shader/bsl-shaders)
 
