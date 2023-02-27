@@ -1,4 +1,4 @@
-# Shad0wolf0's Modpack
+# Shad0wolf0's Vanilla+
 [![CurseForge](https://cf.way2muchnoise.eu/full_shad0wolf0s-modpack_downloads%20on%20CurseForge.svg?badge_style=for_the_badge)](https://beta.curseforge.com/minecraft/modpacks/shad0wolf0s-modpack)
 [![Modrinth](https://img.shields.io/modrinth/dt/shad0wolf0s-modpack?color=4&label=Download%20from%20Modrinth&style=for-the-badge)](https://modrinth.com/modpack/shad0wolf0s-modpack)
 
