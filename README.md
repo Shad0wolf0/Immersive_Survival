@@ -4,6 +4,7 @@
 
 Built from the ground up, this modpack is a vanilla+ styled pack which features an immersive and lively experience paired with performance and utility  mods. The modpack is survival multiplayer friendly so it can be used on many servers that you choose. Inspired by my vision of survival Minecraft and the format of [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized).
 
+- This is a Quilt modpack! CurseForge version is using [JumpQuilt](https://www.curseforge.com/minecraft/mc-mods/jumpquilt) currently until they officially support Quilt modpacks.
 - Modpack is in ALPHA! You might expect bugs or performance issues!
 
 ## Configure features using the [Mod Menu](https://modrinth.com/mod/modmenu)!
