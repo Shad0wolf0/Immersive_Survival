@@ -1,10 +1,9 @@
-# Shad0wolf0's Vanilla+
-[![CurseForge](https://cf.way2muchnoise.eu/full_shad0wolf0s-modpack_downloads%20on%20CurseForge.svg?badge_style=for_the_badge)](https://beta.curseforge.com/minecraft/modpacks/shad0wolf0s-modpack)
-[![Modrinth](https://img.shields.io/modrinth/dt/shad0wolf0s-modpack?color=4&label=Download%20from%20Modrinth&style=for-the-badge)](https://modrinth.com/modpack/shad0wolf0s-modpack)
+# Shad0wolf0's Survival+
+[![CurseForge](https://cf.way2muchnoise.eu/full_shad0wolf0s-survivalplus_downloads%20on%20CurseForge.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/modpacks/shad0wolf0s-survivalplus)
+[![Modrinth](https://img.shields.io/modrinth/dt/shad0wolf0s-survivalplus?color=4&label=Download%20from%20Modrinth&style=for-the-badge)](https://modrinth.com/modpack/shad0wolf0s-survivalplus)
 
 Built from the ground up, this modpack is a vanilla+ styled pack which features an immersive and lively experience paired with performance and utility  mods. The modpack is survival multiplayer friendly so it can be used on many servers that you choose. Inspired by my vision of survival Minecraft and the format of [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized).
 
-- This is a Quilt modpack! CurseForge version is using [JumpQuilt](https://www.curseforge.com/minecraft/mc-mods/jumpquilt) currently until they officially support Quilt modpacks.
 - Modpack is in ALPHA! You might expect bugs or performance issues!
 
 ## Configure features using the [Mod Menu](https://modrinth.com/mod/modmenu)!
