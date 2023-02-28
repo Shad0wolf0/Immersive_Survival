@@ -1,3 +1,9 @@
+## Frequently Asked Questions
+- idk
+
+
+## Known issues:
+- Depending on your audio setup, a Sound Physics Remastered bug will make sounds flat and monotone.
 
 ### I have modified the resource assets of the [MAmbience](https://modrinth.com/mod/mambience) mod by [andre111](https://modrinth.com/user/andre111) under the Apache-2.0 license.
 #### ma_effects
