@@ -19,7 +19,7 @@ Built from the ground up, this modpack is a vanilla+ styled pack which features 
 ## Known issues:
 - Depending on your audio setup, a Sound Physics Remastered bug will make sounds flat and monotone.
 
-## [Modlist and Credits](https://github.com/Shad0wolf0/Shad0wolf0s-Modpack/wiki) and [FAQ](https://github.com/Shad0wolf0/Shad0wolf0s-Modpack/blob/main/faq.md)
+## [Modlist and Credits](https://github.com/Shad0wolf0/Shad0wolf0s-SurvivalPlus/wiki) and [FAQ](https://github.com/Shad0wolf0/Shad0wolf0s-SurvivalPlus/blob/main/faq.md)
 - [Complementary v4](https://modrinth.com/shader/complementary-shaders-v4), [Complementary Reimagined 2.0](https://modrinth.com/shader/complementary-reimagined), [Snowimagined](https://modrinth.com/shader/snowimagined), [Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels) are under the [Complementary Agreement 1.3](https://github.com/ComplementaryDevelopment/ComplementaryShadersV4/blob/main/License.txt) license. Any problems with these shaderpacks should be reported to their respective authors.
 
 [Capt Tatu](https://bitslablab.com) of [BSL Shaders](https://modrinth.com/shader/bsl-shaders)
