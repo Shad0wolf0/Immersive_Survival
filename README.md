@@ -14,7 +14,7 @@ Built from the ground up, this modpack is a vanilla+ styled pack which features 
 - Does your internet router support UPNP? If so, auto-magically port forward **Open to LAN** using [mcwifipnp](https://modrinth.com/mod/mcwifipnp) so your friend can join your singleplayer world!
 
 ## More Info
-- Exordium disabled by default to make Auto HUD work. If you want to enable Exordium, you should disable Auto HUD.
+- Exordium GUI disabled by default to make Auto HUD work. If you want to enable Exordium, you should disable Auto HUD.
 
 ## [Modlist and Credits](https://github.com/Shad0wolf0/Shad0wolf0s-SurvivalPlus/wiki) and [FAQ](https://github.com/Shad0wolf0/Shad0wolf0s-SurvivalPlus/blob/main/faq.md)
 - [Complementary v4](https://modrinth.com/shader/complementary-shaders-v4), [Complementary Reimagined 2.0](https://modrinth.com/shader/complementary-reimagined), [Snowimagined](https://modrinth.com/shader/snowimagined), [Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels) are under the [Complementary Agreement 1.3](https://github.com/ComplementaryDevelopment/ComplementaryShadersV4/blob/main/License.txt) license. Any problems with these shaderpacks should be reported to their respective authors.
