@@ -7,8 +7,7 @@
   - (I got this because I have **Enable audio enhancements** turned off in my audio properties.)
 
 
-## I have modified the resource assets of the [MAmbience](https://modrinth.com/mod/mambience) mod by [andre111](https://modrinth.com/user/andre111).
-###### Changed to use a resource pack in v0.8 Alpha
+## Modified resource pack of the [MAmbience](https://modrinth.com/mod/mambience) mod by [andre111](https://modrinth.com/user/andre111).
 #### ma_effects
 - removed desert_sand.json
 - removed fireflies.json
