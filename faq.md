@@ -4,7 +4,7 @@
 
 ## Known issues:
 - Depending on your audio setup, a Sound Physics Remastered bug will make sounds flat and monotone. 
-  - (I got this because I have **Enable audio enhancements** turned off in my audio properties.)
+  - (I have this issue because I have **Enable audio enhancements** turned off in my audio properties in Windows.)
 
 
 ## Modified resource pack of the [MAmbience](https://modrinth.com/mod/mambience) mod by [andre111](https://modrinth.com/user/andre111).
