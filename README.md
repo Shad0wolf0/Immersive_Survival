@@ -2,7 +2,9 @@
 [![CurseForge](https://cf.way2muchnoise.eu/full_shad0wolf0s-survivalplus_downloads%20on%20CurseForge.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/modpacks/shad0wolf0s-survivalplus)
 [![Modrinth](https://img.shields.io/modrinth/dt/shad0wolf0s-survivalplus?color=4&label=Download%20from%20Modrinth&style=for-the-badge)](https://modrinth.com/modpack/shad0wolf0s-survivalplus)
 
-Built from the ground up, this modpack is a vanilla+ styled pack which features an immersive and lively experience paired with performance and utility mods. The modpack is survival multiplayer friendly so it can be used on many servers that you choose. Inspired by my vision of survival Minecraft and the format of [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized).
+## When trying to upload Shad0wolf0's Survival+ v1.0 Release, I was informed that Sodium, Iris, and Mod Menu are not on CurseForge anymore (the pages are still there, but the files aren't). I was excited to get this release out but unfortunatley due to the modpack for being rejected for having these files while they don't, I cannot upload this to CurseForge anymore. Updated versions will be available on [Modrinth](https://modrinth.com/modpack/shad0wolf0s-survivalplus)!
+
+Built from the ground up, this modpack is a vanilla+ styled pack which features an immersive and lively experience paired with performance and utility mods. The modpack is survival multiplayer friendly so it can be used on your friends Vanilla servers or on many servers that you choose (I cannot guarantee that you will not get banned from servers and doing so is your responsibility). Inspired by my vision of survival Minecraft and the format of [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized).
 
 - This is a Quilt modpack! CurseForge version is using [JumpQuilt](https://www.curseforge.com/minecraft/mc-mods/jumpquilt) currently until they officially support Quilt modpacks. Might crash on first launch, then you're good to go.
 - This pack is probably heavy to run! You might expect bugs or performance issues!
