@@ -2,16 +2,17 @@
 [![CurseForge](https://cf.way2muchnoise.eu/full_shad0wolf0s-survivalplus_downloads%20on%20CurseForge.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/modpacks/shad0wolf0s-survivalplus)
 [![Modrinth](https://img.shields.io/modrinth/dt/shad0wolf0s-survivalplus?color=4&label=Download%20from%20Modrinth&style=for-the-badge)](https://modrinth.com/modpack/shad0wolf0s-survivalplus)
 
-Built from the ground up, this modpack is a vanilla+ styled pack which features an immersive and lively experience paired with performance and utility  mods. The modpack is survival multiplayer friendly so it can be used on many servers that you choose. Inspired by my vision of survival Minecraft and the format of [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized).
+Built from the ground up, this modpack is a vanilla+ styled pack which features an immersive and lively experience paired with performance and utility mods. The modpack is survival multiplayer friendly so it can be used on many servers that you choose. Inspired by my vision of survival Minecraft and the format of [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized).
 
-- Modpack is in ALPHA! You might expect bugs or performance issues!
+- This is a Quilt modpack! CurseForge version is using [JumpQuilt](https://www.curseforge.com/minecraft/mc-mods/jumpquilt) currently until they officially support Quilt modpacks. Might crash on first launch, then you're good to go.
+- This pack is probably heavy to run! You might expect bugs or performance issues!
 
 ## Configure features using the [Mod Menu](https://modrinth.com/mod/modmenu)!
 #### Most mods are configurable!
-- Optifine resource packs and shaders **mostly** compatible! Mods like [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures), [Custom Entity Models](https://modrinth.com/mod/cem), [Animatica](https://modrinth.com/mod/animatica), [Iris Shaders](https://modrinth.com/mod/iris), and others are installed!
+- Optifine resource packs and shaders **mostly** compatible! Mods like [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures), [Entity Models Features](https://modrinth.com/mod/entity-model-features), [Continuity](https://modrinth.com/mod/continuity), [Iris Shaders](https://modrinth.com/mod/iris), and others are installed!
 - Zoom in and cinimatize with two customizable zoom mods like [Zoomify](https://modrinth.com/mod/zoomify) and [Camera Utils](https://modrinth.com/mod/camera-utils)!
 - Is moody brightness not dark enough during the night? Enable the [True Darkness](https://modrinth.com/mod/true-darkness) mod to make it more terrifying! Disabled by default.
-- Does your internet router support UPNP? If so, auto-magically port forward **Open to LAN** using [mcwifipnp](https://modrinth.com/mod/mcwifipnp) so your friend can join your singleplayer world!
+- Does your internet router support UPNP? If so, auto-magically port forward **Open to LAN** using [mcwifipnp](https://modrinth.com/mod/mcwifipnp) so your friend can join your singleplayer world using the same modpack!
 
 ## More Info
 - Exordium GUI disabled by default to make Auto HUD work. If you want to enable Exordium, you should disable Auto HUD.
