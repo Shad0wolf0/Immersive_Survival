@@ -1,21 +1,22 @@
-# Shad0wolf0's Survival+
-[![CurseForge](https://cf.way2muchnoise.eu/full_shad0wolf0s-survivalplus_downloads%20on%20CurseForge.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/modpacks/shad0wolf0s-survivalplus)
-[![Modrinth](https://img.shields.io/modrinth/dt/shad0wolf0s-survivalplus?color=4&label=Download%20from%20Modrinth&style=for-the-badge)](https://modrinth.com/modpack/shad0wolf0s-survivalplus)
+# Immersive Survival [1.20.1 update coming soon]
+[![Modrinth](https://img.shields.io/modrinth/dt/immersive_survival?color=4&label=Download%20from%20Modrinth&style=for-the-badge)](https://modrinth.com/modpack/immersive_survival)
 
-Built from the ground up, this modpack is a vanilla+ styled pack which features an immersive and lively experience paired with performance and utility mods. The modpack is survival multiplayer friendly so it can be used on your friends Vanilla servers or on many servers that you choose (I cannot guarantee that you will not get banned from servers and doing so is your responsibility). Inspired by my vision of survival Minecraft and the format of [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized).
+Immersive Survival is a vanilla+ pack which features an immersive and lively experience paired with performance and utility mods. The modpack is survival multiplayer friendly so it can be used on your friends Vanilla servers or on many servers that you choose (use at your own risk).
 
-- This is a Quilt modpack! CurseForge version is using [JumpQuilt](https://www.curseforge.com/minecraft/mc-mods/jumpquilt) currently until they officially support Quilt modpacks. Might crash on first launch, then you're good to go.
 - This pack is probably heavy to run! You might expect bugs or performance issues!
 
-## Configure features using the [Mod Menu](https://modrinth.com/mod/modmenu)!
+## Features
 #### Most mods are configurable!
+- Encounter many cosmetics that will change the way you **see** and **feel** about vanilla Minecraft. Most notable mods are the [Physics Mod](https://modrinth.com/mod/physicsmod), [Effective](https://modrinth.com/mod/effective), [Visuality](https://modrinth.com/mod/visuality), and [CameraOverhaul](https://modrinth.com/mod/cameraoverhaul)!
+- Best played with **headphones**! Experience ambient and immersive sounds from mods like [AmbientSounds](https://modrinth.com/mod/ambientsounds), [Presence Footsteps](https://modrinth.com/mod/presence-footsteps), and [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)!
+- Catch the sight of **unique** world generation and structures from [Stardust's](https://modrinth.com/user/Stardust) and [YUNG's](https://modrinth.com/user/YUNGNICKYOUNG) mods!
 - Optifine resource packs and shaders **mostly** compatible! Mods like [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures), [Entity Models Features](https://modrinth.com/mod/entity-model-features), [Continuity](https://modrinth.com/mod/continuity), [Iris Shaders](https://modrinth.com/mod/iris), and others are installed!
-- Zoom in and cinimatize with two customizable zoom mods like [Zoomify](https://modrinth.com/mod/zoomify) and [Camera Utils](https://modrinth.com/mod/camera-utils)!
-- Is moody brightness not dark enough during the night? Enable the [True Darkness](https://modrinth.com/mod/true-darkness) mod to make it more terrifying! Disabled by default.
-- Does your internet router support UPNP? If so, auto-magically port forward **Open to LAN** using [mcwifipnp](https://modrinth.com/mod/mcwifipnp) so your friend can join your singleplayer world using the same modpack!
+- Along side Optifine compatible mods, the [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) resource pack is included! Enable it to have **mob animations**!
+- Is moody brightness not dark enough during the night? Enable the [True Darkness](https://modrinth.com/mod/true-darkness) mod to make it more **terrifying**! Disabled by default.
+- Use the [World Host](https://modrinth.com/mod/world-host) mod to let your friends join your singleplayer world using the same modpack **without** port forwarding!
 
 ## More Info
-- Exordium GUI disabled by default to make Auto HUD work. If you want to enable Exordium, you should disable Auto HUD.
+- Exordium hotbar, experience, health disabled by default to make Auto HUD work. If you want to enable those settings, you should disable Auto HUD.
 
 ## [Modlist and Credits](https://github.com/Shad0wolf0/Shad0wolf0s-SurvivalPlus/wiki) and [FAQ](https://github.com/Shad0wolf0/Shad0wolf0s-SurvivalPlus/blob/main/faq.md)
 - [Complementary v4](https://modrinth.com/shader/complementary-shaders-v4), [Complementary Reimagined 2.0](https://modrinth.com/shader/complementary-reimagined), [Snowimagined](https://modrinth.com/shader/snowimagined), [Rethinking Voxels](https://modrinth.com/shader/rethinking-voxels) are under the [Complementary Agreement 1.3](https://github.com/ComplementaryDevelopment/ComplementaryShadersV4/blob/main/License.txt) license. Any problems with these shaderpacks should be reported to their respective authors.
